@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a mobile docotors appointment apllication <br>👯 I’m looking to collaborate on any Java backend development apllication <br>🌱 I’m currently learning Kotlin<br>💬 Ask me about Java and I'll be your LLM<br>⚡ Fun fact: there's nothing dun about coding
-
+ 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vNb2MUNH) 
