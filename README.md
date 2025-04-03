@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a mobile docotors appointment apllication <br>👯 I’m looking to collaborate on any Java backend development apllication <br>🌱 I’m currently learning Kotlin<br>💬 Ask me about Java and I'll be your LLM<br>⚡ Fun fact: there's nothing dun about coding
+🔭 I’m currently working on a mobile docotors appointment apllication <br>👯 I’m looking to collaborate on any Java backend development apllication <br>🌱 I’m currently learning Flutter<br>💬 Ask me about Java and I'll be your LLM<br>⚡ Fun fact: there's nothing dun about coding
  
 
 ## 🌐 Socials:
