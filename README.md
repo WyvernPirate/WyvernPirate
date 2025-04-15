@@ -68,10 +68,5 @@ Hello! I'm a software developer specializing in Java backend development with ex
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eric_moloi_)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://Facebook.com/PhemeloMoloi)
 
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=WyvernPirate&icon=0&color=0" alt="Visit Count" />
-</div>
 
 <!-- "Coding may not always be fun, but building solutions is rewarding!" -->
