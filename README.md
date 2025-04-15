@@ -51,8 +51,22 @@ Hello! I'm a software developer specializing in Java backend development with ex
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WyvernPirate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
+## 📈 Activity Graph
+[![Phemelo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WyvernPirate&theme=tokyo-night&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🏆 GitHub Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WyvernPirate&theme=tokyonight&no-frame=true&margin-w=15&column=7)
+
+## 🔝 Top Repositories
+[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=WyvernPirate&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/WyvernPirate)
+
+## 📌 Pinned Repositories
+<a href="https://github.com/WyvernPirate/your-repo-name">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=WyvernPirate&repo=your-repo-name&theme=tokyonight" />
+</a>
+<a href="https://github.com/WyvernPirate/another-repo-name">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=WyvernPirate&repo=another-repo-name&theme=tokyonight" />
+</a>
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PhemeloMoloi)
