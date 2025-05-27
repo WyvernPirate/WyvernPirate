@@ -5,7 +5,7 @@ Hello! I'm a software developer specializing in Java backend development with ex
 
 - 🔭 **Current Project:** Mobile doctor's appointment application using Flutter
 - 🌱 **Currently Learning:** Expanding my Flutter expertise
-- 👯 **Looking to Collaborate:** Java backend development projects
+- 👯 **Looking to Collaborate:** Javascript backend development projects
 - 💬 **Ask Me About:** Java development - I'm your resident expert!
   
 
