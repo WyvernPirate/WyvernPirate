@@ -55,6 +55,8 @@ Hello! I'm a software developer specializing in Java backend development with ex
 ## 🏆 GitHub Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WyvernPirate&theme=tokyonight&no-frame=true&margin-w=15&column=7)
 
+[![committers.top badge](https://user-badge.committers.top/botswana/USERNAME.svg)](https://user-badge.committers.top/botswana/WyvernPirate)
+
 ## 🔝 Top Repositories
 [![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=WyvernPirate&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/WyvernPirate)
 
