@@ -49,7 +49,7 @@ Hello! I'm a software developer specializing in Java backend development with ex
   <br/>
   <img src="https://streak-stats.demolab.com/?user=WyvernPirate&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyvernPirate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyvernPirate&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Achievements
