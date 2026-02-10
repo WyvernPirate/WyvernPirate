@@ -45,20 +45,20 @@ Hello! I'm a software developer specializing in Java backend development with ex
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WyvernPirate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WyvernPirate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=WyvernPirate&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WyvernPirate&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyvernPirate&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyvernPirate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WyvernPirate&theme=tokyonight&no-frame=true&margin-w=15&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WyvernPirate&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
-[![committers.top badge](https://user-badge.committers.top/botswana/WyvernPirate.svg)](https://user-badge.committers.top/botswana/WyvernPirate)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=WyvernPirate&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/WyvernPirate)
 
-## 🔝 Top Repositories
-[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=WyvernPirate&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/WyvernPirate)
+## 📈 GitHub Activity Graph
+[![WyvernPirate's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WyvernPirate&theme=tokyo-night&hide_border=false&area=true)](https://github.com/WyvernPirate)
 
 
 ## 🔗 Connect With Me
