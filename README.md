@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 Hello! I'm a software developer specializing in Java backend development with experience in mobile application development using Flutter. I'm passionate about creating efficient, scalable applications and currently focused on healthcare tech solutions.
 
-- 🔭 **Current Project:** Mobile doctor's appointment application using Flutter
+- 🔭 **Current Project:** Mobile F1 viewing/tracking application using Flutter
 - 🌱 **Currently Learning:** Expanding my Flutter expertise
 - 👯 **Looking to Collaborate:** Javascript backend development projects
 - 💬 **Ask Me About:** Java development - I'm your resident expert!
